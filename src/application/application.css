@@ -1,0 +1,20 @@
+.root{
+	-fx-background-color: #061237;
+	-fx-pref-height: 741;
+	-fx-pref-width: 1024;
+}
+.label{
+	-fx-text-fill: "white";
+	-fx-font-size: 25;
+	-fx-font-family: "Jomolhari";
+	-fx-alignment: center  ;
+}
+
+
+#startButton{
+	-fx-text-fill: "white";
+	-fx-background-color: #02FF57 ;
+	-fx-text-alignment: center ;
+	-fx-font-size: 30;
+	-fx-alignment: center;
+}
